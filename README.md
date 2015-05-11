@@ -1,4 +1,3 @@
-# serverspec_extensions
 ServerSpec Extensions
 =====
 
